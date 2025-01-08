@@ -6,5 +6,6 @@
     "rootDir": "./src",
     "strict": true,
     "noImplicitAny": true,
-  }
+  },
+  "include": ["src/**/*.ts"],
 }
